@@ -34,3 +34,11 @@ git push -u origin main
 # TO GET THE CODE FROM ANOTHER DEVELOPER THROUGH GITHUB
 
 git clone https://github.com/SriHarshaDaggubati7/abc.git #---> cloning the cope using code url in github
+
+======================================================================================================
+
+# TO GET THE ONLINE TO LOCAL ('pull' for local to online / 'push' to online to local)
+
+git push origin main
+
+=======================================================================================================
